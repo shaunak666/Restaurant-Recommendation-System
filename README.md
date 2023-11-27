@@ -34,22 +34,22 @@ Before you begin, ensure you have met the following requirements:
    ```bash
      cd Restaurant-Recommendation-System
 
-###Usage
+### Usage
 Run the restaurant_recommendation.py file to start the restaurant recommendation system. Follow the prompts to input your cuisine and location preferences, and the system will provide restaurant recommendations.
    ```bash
      python restaurant_recommendation.py
 ```
 
-###Testing
+### Testing
 To run the test suite, use the following command:
   ```bash
     python -m unittest test_recommendation.py    
 ```
 
-###Contributing
+### Contributing
 If you'd like to contribute to this project, feel free to fork the repository and submit a pull request. Contributions are always welcome!
 
-###Images
+### Images
 
 **Recommendation for Restaurants**
 ![image](https://github.com/shaunak666/Restaurant-Recommendation-System/assets/69794106/dab13718-11bf-41d8-b771-845bbcad917c)
