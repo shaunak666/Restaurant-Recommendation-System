@@ -8,7 +8,7 @@ The Restaurant Recommendation System is a simple application designed to provide
 ## Features
 
 - **Fuzzy Matching:** Corrects potential typos in cuisine and location names, providing a more robust user experience.
-- **Restaurant Recommendations:** Offers a list of recommended restaurants based on user preferences, sorted by ratings.
+- **Restaurant Recommendations:** Offers a list of recommended restaurants based on user preferences, sorted by ratings and proximity.
 - **Did-You-Mean Suggestions:** Provides suggestions when users input a cuisine or location with potential typos.
 
 ## Getting Started
